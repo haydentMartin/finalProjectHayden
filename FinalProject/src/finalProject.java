@@ -5,6 +5,7 @@ public class finalProject {
 		// TODO Auto-generated method stub
 		String j;
 		j = "Jack";
+		System.out.println("We got it");
 	}
 
 }
