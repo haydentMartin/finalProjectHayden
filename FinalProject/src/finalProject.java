@@ -6,6 +6,8 @@ public class finalProject {
 		String j;
 		j = "Jack";
 		System.out.println("We got it");
+		String h;
+		h = "Hayden";
 	}
 
 }
